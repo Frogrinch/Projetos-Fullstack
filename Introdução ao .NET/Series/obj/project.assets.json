@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Colecoes/Colecoes.csproj",
-      "projectName": "Colecoes",
-      "projectPath": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Colecoes/Colecoes.csproj",
+      "projectUniqueName": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/Series.csproj",
+      "projectName": "Series",
+      "projectPath": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/Series.csproj",
       "packagesPath": "/home/grinch/.nuget/packages/",
-      "outputPath": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Colecoes/obj/",
+      "outputPath": "/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/grinch/.nuget/NuGet/NuGet.Config"

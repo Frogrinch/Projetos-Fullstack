@@ -1,0 +1,5 @@
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/Debug/net6.0/Series.csproj.AssemblyReference.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/Debug/net6.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/Debug/net6.0/Series.AssemblyInfoInputs.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/Debug/net6.0/Series.AssemblyInfo.cs
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/Series/obj/Debug/net6.0/Series.csproj.CoreCompileInputs.cache
